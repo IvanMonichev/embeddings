@@ -1,0 +1,5 @@
+content/
+model/
+.idea/
+./.venv/
+.DS_STORE
